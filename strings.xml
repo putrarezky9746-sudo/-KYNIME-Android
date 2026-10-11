@@ -1,0 +1,4 @@
+<resources>
+    <!-- Nama ini tampil di ikon aplikasi. Nama di dialog "Pilih akun" diambil dari OAuth consent screen (lihat README-ANDROID.md) -->
+    <string name="app_name">KYNIME</string>
+</resources>
